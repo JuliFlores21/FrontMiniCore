@@ -10,6 +10,9 @@ Finalizado
 
 
 **Instalación**
+
 Clonar este repositorio
-Dirigirse al repositorio de BackEnd para funcionamiento del sistema completo
+
+Clonar el repositorio de BackEnd para funcionamiento del sistema completo https://github.com/JuliFlores21/BackMiniCore.git
+
 Ejecutar ambos proyectos
